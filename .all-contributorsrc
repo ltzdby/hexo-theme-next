@@ -4,7 +4,7 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
-    "README.md"
+    "docs/AUTHORS.md"
   ],
   "imageSize": 100,
   "commit": true,
@@ -22,7 +22,10 @@
         "blog",
         "review",
         "test",
-        "translation"
+        "translation",
+        "design",
+        "infra",
+        "maintenance"
       ]
     },
     {
@@ -405,7 +408,8 @@
       "contributions": [
         "bug",
         "code",
-        "doc"
+        "doc",
+        "infra"
       ]
     },
     {
@@ -416,7 +420,9 @@
       "contributions": [
         "bug",
         "code",
-        "doc"
+        "doc",
+        "translation",
+        "review"
       ]
     },
     {
@@ -427,8 +433,30 @@
       "contributions": [
         "bug",
         "code",
+        "doc",
+        "review",
+        "translation"
+      ]
+    },
+    {
+      "login": "zq-97",
+      "name": "张强",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/17429111?v=4",
+      "profile": "https://i-m.dev",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "howiezhao",
+      "name": "Howie Zhao",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16129206?v=4",
+      "profile": "http://www.howiezhao.com",
+      "contributions": [
         "doc"
       ]
     }
-  ]
+  ],
+  "contributorsPerLine": 6
 }
